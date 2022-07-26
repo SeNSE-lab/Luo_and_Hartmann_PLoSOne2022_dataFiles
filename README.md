@@ -11,3 +11,5 @@ Include a reason (correction, supplementing info requested by others, etc.).
 V1.0
 
 All data uploads, with all the data used for figures in the journal article.
+
+[![DOI](https://zenodo.org/badge/487946671.svg)](https://zenodo.org/badge/latestdoi/487946671)
